@@ -11,7 +11,7 @@ Follow the steps below to set up the project locally:
 1. Clone the Repository
 First, clone this repository to your local machine using Git:
 
-git clone https://github.com/your-username/personalized-student-recommendations.git
+git clone https://github.com/khushal728/Personalized-Student-Recommendations
 
 2. Navigate to the Project Directory
 Move into the project directory:
